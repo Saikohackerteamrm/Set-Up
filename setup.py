@@ -51,7 +51,7 @@ def install_package(package):
 
 def RONY():
     clear()
-    ALLMasTerx1001('xdg-open https://facebook.com/groups/694288526013401/')
+    ALLMasTerx1001('xdg-open https://www.facebook.com/profile.php?id=61551487702871')
     print(f'{B} [{warna}01{B}] Full Setup [ Unique:- 90 ] ')
     print(f'{B} [{warna}02{B}] Join Telegram Channel')
     print(f'{B} [{warna}00{B}] EXIT PROGRAM')
