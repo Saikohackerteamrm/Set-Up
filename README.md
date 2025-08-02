@@ -12,13 +12,13 @@ ____________________
     $ pkg install python -y
     $ git clone https://github.com/Saikohackerteamrm/Set-Up
     $ cd Set-Up
-    $ python setup.py
+    $ python Saiko.py
     
      
     # Single installation command
 _______________________________________
 
-    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y  && git clone https://github.com/Saikohackerteamrm/Set-Up && cd Set-Up && python setup.py
+    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y  && git clone https://github.com/Saikohackerteamrm/Set-Up && cd Set-Up && python Saiko.py
  ### Hi there 👋
 
 <!--
